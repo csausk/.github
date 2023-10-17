@@ -1,3 +1,3 @@
 ## CSAUSK
 
-PUBLIC PERSONAL NOTES IN CS. 
+Computer Science and Software Engineering Reference for the Future.
